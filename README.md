@@ -1,0 +1,2 @@
+# Web-application-of-student-information-management
+Student Information Management System in the form of a web-based portal  designed to streamline data management for colleges. Built using Spring Boot (Java) for backend  development, MySQL for database storage, and Thymeleaf with HTML/CSS/JavaScript for the frontend,the system enables secure, role-based access to student profiles, academic records.
